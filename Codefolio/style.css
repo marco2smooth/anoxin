@@ -785,17 +785,17 @@ body {
 			}
 
 			& > :nth-child(1) {
-				background-image: url("hero/fade1.png");
+				background-image: url("gallery/fade1.png");
 				animation-delay: 0s;
 			}
 			
 			& > :nth-child(2) {
-				background-image: url("hero/fade2.png");
+				background-image: url("gallery/fade2.png");
 				animation-delay: -10s;
 			}
 			
 			& > :nth-child(3) {
-				background-image: url("hero/fade3.png");
+				background-image: url("gallery/fade3.png");
 				animation-delay: -20s;
 			}
 		}
