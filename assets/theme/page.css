@@ -196,11 +196,11 @@
 
 
 [data-md-color-scheme="fusiondoc-light"] .md-header__title .md-header__topic:first-child::before {
-	background-image: url(https://anoxin.com/res/rawlogo.svg);
+	background-image: url(https://anoxin.com/res/rawlogo.png);
 }
 
 [data-md-color-scheme="fusiondoc-dark"] .md-header__title .md-header__topic:first-child::before {
-	background-image: url(https://anoxin.com/res/rawlogodark.svg);
+	background-image: url(https://anoxin.com/res/rawlogodark.png);
 }
 
 .md-header__title[data-md-state=active] .md-header__topic {
